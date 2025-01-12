@@ -83,7 +83,7 @@ The project follows a modular architecture with a clear separation of concerns b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Brenda90/personal-finance-management-tool.git
+   git clone https://github.com/Brendah90/personal-finance-management-tool.git
    cd personal-finance-management-tool/backend
    ```
 
